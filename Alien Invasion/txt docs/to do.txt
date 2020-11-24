@@ -1,0 +1,21 @@
+see if how you're doing the gameplayscreen will allow for smooth animations and work correctly.
+
+Add end game screen with play again button. -- DONE
+Add limited bullets -- DONE
+add limited lives -- DONE
+alien and ship collision -- DONE
+bullet collision  -- DONE
+new alien waves  -- ADD ADVANCE WAVES
+display bullets -- DONE
+display lives
+display levels
+display score
+keep score
+save score to scoreboard
+make scoreboard visible in scoreboard menu
+Add advance mechanics to aliens
+add sounds
+add boss alien
+
+
+will have to check size of _bullets group to be double the amount of aliens that spawn

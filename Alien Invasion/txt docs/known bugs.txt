@@ -1,0 +1,8 @@
+when shooting from right side of screen after multiple levels, got a division by zero error
+	File "d:\Docs\Python\Alien Invasion\bullet.py", line 80, in _calc_bullet_velocity
+    self.__x_velocity = x_diff / y_diff
+
+
+
+FIXED-----------	First fleet is 1.0 speed, but second fleet wave is still 1.0 speed, this happens when starting the game up and playing for the
+first time. 3rd fleet gets increased to 1.1 perfectly fine.
