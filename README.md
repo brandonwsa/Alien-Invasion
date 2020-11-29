@@ -10,6 +10,11 @@ A 2D game where you, the ship, protects yourself from swarms of aliens! Made in 
 - Each new alien wave increases in points you earn and the speed at which the aliens moves increases.
 - There is no max level, so see how far you can get in the alien invasion!
 
+## Screenshots
+![Screen shot of main menu:](https://github.com/brandonwsa/Alien-Invasion/blob/main/Alien%20Invasion/screenshots/MainMenu.PNG "Main Menu")
+![Screen shot of game play:](https://github.com/brandonwsa/Alien-Invasion/blob/main/Alien%20Invasion/screenshots/GamePlay.PNG "Game play")
+![Screen shot of pause menu:](https://github.com/brandonwsa/Alien-Invasion/blob/main/Alien%20Invasion/screenshots/paused.PNG "Pause menu")
+
 ## To Do
 - Add image display for number of lives remaining.
 - Save score.
